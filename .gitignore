@@ -1,0 +1,7 @@
+Debug/
+.vscode/
+.vs/
+*.o
+*.exe
+*.sln
+*.vcxproj*

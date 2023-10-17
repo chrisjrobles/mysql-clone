@@ -1,0 +1,14 @@
+{
+  "course": "ECE141b",
+  "assignment"         : "final",
+  "due_date"           : "June 7, 2021, 6:00p",
+  "total_effort_hours" : 2,
+  "students": [
+    {
+      "name " : "Christopher Robles",
+      "pid"   : "A15097590",
+      "email" : "c6robles@ucsd.eud",
+      "os"    : "windows"
+    }
+  ]
+}
